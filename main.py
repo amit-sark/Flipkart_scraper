@@ -64,7 +64,7 @@ def main():
             writer.writerow(product)
     end_time = time.time()        
 
-    print(f"\nTotal Consumed time: {start_time-end_time}✅ Data saved successfully in flipkart_products.csv")
+    print(f"\nTotal Consumed time: {start_time-end_time}✅ Data  successfully in flipkart_products.csv")
 
 if __name__ == "__main__":
 
